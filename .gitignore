@@ -1,0 +1,11 @@
+# 编译输出
+bin/
+obj/
+publish/
+*.user
+*.suo
+
+# 归档/临时
+*.rar
+*.zip
+Thumbs.db
